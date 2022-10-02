@@ -1,0 +1,79 @@
+form {
+    border: thin solid #575555;
+    box-shadow: -3px 3px rgb(69, 70, 70);
+    border-radius: 5px;
+}
+.muestraForm {
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+    background-color: blueviolet;
+}
+
+.cardColor {
+    background-color: rgb(232, 238, 238);
+    border: thin solid #575555;
+    box-shadow: -3px 3px rgb(69, 70, 70);
+    border-radius: 5px;
+}
+.rojo {
+    background-color: red;
+
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.azul {
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.verde {
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.amarillo {
+    background-color: yellow;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.violeta {
+    background-color: blueviolet;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.negro {
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.blanco {
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.rosa {
+    background-color: pink;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.naranja {
+    background-color: orange;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
+.celeste {
+    background-color: lightblue;
+    height: 80px;
+    width: 80px;
+    border: thin solid black;
+}
